@@ -1,0 +1,1 @@
+SiUtil.net is a C# based assembly wrapper around the MFC C++ .dll that Silicon Labs provides with their programming tools.  The wrapper assembly will allow .net developers to build custom device flashing apps on the .Net platform.
